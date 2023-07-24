@@ -1,5 +1,6 @@
 # ***Crypto Clusters***
 
+In this challenge I have made a code that clusters together cryptocurrency information based on is performance at different times. I then made plots and databanks to show this data and how different curves show different outcomes within the code itself.
 
 -----------------------
 
@@ -39,5 +40,12 @@
       Jupyterlab
 
   2.Once in Jupyterlab run the kernal by clicking the triangles near the top of the screen.
+
+------------------------
+
+## ***Contributors***
+
+John Garcia
+Email:Jdganna222@gmail.com
      
 
